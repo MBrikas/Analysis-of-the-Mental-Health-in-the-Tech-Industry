@@ -1,5 +1,6 @@
 <img src="Firefly Mental Health in the Tech Industry. Big companies vs Remote work 97584.jpg" width="450" height="450">
 <p style="font-family: San Francisco; font-size:2.75em;color:#0056D2; font-style:bold"> <br>Mental Health in the Tech Industry</p>
+<p style="font-family: San Francisco; font-size:2.75em;color:#0056D2; font-style:bold"> <br>Analysis is presented in Analysis of the Mental Health in the Tech Industry.ipynb notebook</p>
 <br>
 
 <a id="0"></a>
